@@ -7,6 +7,7 @@ import {
   Route,
   Link
 } from "react-router-dom";
+import Order from './Pages/Order';
 
 
 function App() {
@@ -16,6 +17,9 @@ function App() {
        <Switch>
          <Route path="/home">
            <Home/>
+         </Route>
+         <Route path ="/order">
+           <Order/>
          </Route>
          <Route path="/">
            <Home/>
