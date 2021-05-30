@@ -1,7 +1,6 @@
 import React from 'react';
 import './About.css';
-import chef from './../../../images/chef.png';
-import sign from './../../../images/sign.png';
+import chef from '../../images/chef.png';
 
 const About = () => {
     return (
