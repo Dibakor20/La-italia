@@ -51,7 +51,7 @@ class Menu extends Component {
         }
 
         return (
-            <div className="container mb-5">
+            <div className="container mb-5" id="menu">
                 <h1 className="text-center mt-5 mb-5">Menu</h1>
                 <div className="row">
                    <CardColumns>
