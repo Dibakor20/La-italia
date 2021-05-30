@@ -1,0 +1,8 @@
+.bg-menu {
+    background-color: #040505;
+}
+.navbar ul li:hover {
+    background-color: #198754;
+    cursor: pointer;
+    border-radius: 10px;
+}
