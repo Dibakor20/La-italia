@@ -1,0 +1,21 @@
+a {
+    text-decoration: none;
+}
+.footer {
+    background-color: rgb(30,30,30);
+}
+.social-media .font-icon{
+    height: 40px;
+    width: 40px;
+    color: #777;
+    border-radius: 50%;
+    border: 1px solid #777;
+    padding: 10px;
+}
+.social-media .active-icon{
+    background-color: #777;
+    color:white;
+}
+ul li:hover a {
+    color: red;
+}
