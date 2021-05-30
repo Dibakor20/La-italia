@@ -1,5 +1,5 @@
 .hero {
-    background-image: url(./../../../images/hero.jpg);
+    background-image: url(./../../images/hero.jpg);
     padding: 200px 0;
 }
 .hero-text {
