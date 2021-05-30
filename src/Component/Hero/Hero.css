@@ -1,0 +1,8 @@
+.hero {
+    background-image: url(./../../../images/hero.jpg);
+    padding: 200px 0;
+}
+.hero-text {
+    font-weight: bold;
+    font-family: tahoma;
+}
