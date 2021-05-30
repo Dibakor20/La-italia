@@ -16,7 +16,7 @@ const Dishes = [
    },
    {  
         id:2,
-        img: 'https://www.seriouseats.com/recipes/images/2015/07/20150728-homemade-whopper-food-lab-35-1500x1125.jpg',
+        img: 'https://media1.s-nbcnews.com/i/newscms/2019_21/2870431/190524-classic-american-cheeseburger-ew-207p_d9270c5c545b30ea094084c7f2342eb4.jpg',
         name:'Burgers Ahoy',
         description:'Minetta Tavern’s namesake burger is made with a blend of beef short rib and brisket from the nearly century-old local purveyor Pat La Frieda.',
         price:70,
